@@ -34,5 +34,9 @@
     {
         "merged": "/Users/zhanglinfeimacair/workroom/coding/iwos-phone/iwos/node_modules/react-native-splash-screen/android/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
         "source": "/Users/zhanglinfeimacair/workroom/coding/iwos-phone/iwos/node_modules/react-native-splash-screen/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-splash-screen/android/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-splash-screen/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v23/abc_color_highlight_material.xml"
     }
 ]

@@ -5,34 +5,36 @@
       "/Users/zhanglinfeimacair/workroom/coding/iwos-phone/iwos"
     ]
   ],
-  "_from": "react-native-splash-screen@3.1.1",
+  "_from": "git+https://github.com/linfeizhang/react-native-splash-screen.git",
   "_id": "react-native-splash-screen@3.1.1",
   "_inBundle": false,
   "_integrity": "sha1-Gk5Gyf3OU/9SryostBgXiMTjCzA=",
   "_location": "/react-native-splash-screen",
   "_phantomChildren": {},
   "_requested": {
-    "type": "version",
-    "registry": true,
-    "raw": "react-native-splash-screen@3.1.1",
+    "type": "git",
+    "raw": "react-native-splash-screen@git+https://github.com/linfeizhang/react-native-splash-screen.git",
     "name": "react-native-splash-screen",
     "escapedName": "react-native-splash-screen",
-    "rawSpec": "3.1.1",
-    "saveSpec": null,
-    "fetchSpec": "3.1.1"
+    "rawSpec": "git+https://github.com/linfeizhang/react-native-splash-screen.git",
+    "saveSpec": "git+https://github.com/linfeizhang/react-native-splash-screen.git",
+    "fetchSpec": "https://github.com/linfeizhang/react-native-splash-screen.git",
+    "gitCommittish": null
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "http://registry.npm.taobao.org/react-native-splash-screen/download/react-native-splash-screen-3.1.1.tgz",
-  "_spec": "3.1.1",
-  "_where": "/Users/zhanglinfeimacair/workroom/coding/iwos-phone/iwos",
+  "_resolved": "git+https://github.com/linfeizhang/react-native-splash-screen.git#e85431aaf6565994439c19ca4884798a4015621a",
+  "_spec": "react-native-splash-screen@git+https://github.com/linfeizhang/react-native-splash-screen.git",
+  "_where": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin",
   "author": {
     "name": "crazycodeboy"
   },
   "bugs": {
     "url": "https://github.com/crazycodeboy/react-native-splash-screen/issues"
   },
+  "bundleDependencies": false,
+  "deprecated": false,
   "description": "A splash screen for react-native, hide when application loaded ,it works on iOS and Android.",
   "homepage": "https://github.com/crazycodeboy/react-native-splash-screen#readme",
   "keywords": [
